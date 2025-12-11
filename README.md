@@ -12,7 +12,7 @@
 ## Установка:
 
 ```bash
-pip install audience
+pip install audience-framework
 ```
 
 ## Пример использования:
